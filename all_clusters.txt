@@ -1,0 +1,256 @@
+Cluster_0: aad aam aas adc addps bnd cdq clc cld cli cmc cmovno cmovnp cmpsb cmpsd cmpsw comiss cpuid cvtps2pi cwd cwde daa das div divps emms enter f2xm1 fabs.1 fadd faddp fbld fbstp fcmovb fcmovbe fcmove fcmovnb fcmovnbe fcmovne fcmovnu fcmovu fcom fcomi fcomp fcompi fcos fdecstp fdisi8087_nop fdiv fdivp fdivr fdivrp feni8087_nop ffree ffreep fiadd ficom ficomp fidiv fidivr fild fimul fincstp fist fistp fisttp fisub fisubr fld fldcw fldenv fldl2e fldl2t fldlg2 fldpi fmul fninit fnop fnsave fnstcw fnstenv fnstsw fpatan fprem fprem1 fptan frstor fscale fsetpm fsin fsincos fsqrt fst fstp fstpnce fsub fsubp fsubr fsubrp ftst fucom fucomi fucomp fucompi fucompp fxtract fyl2x fyl2xp1 getsec hlt in int int1 into iret iretd ja jcxz jecxz jg jl jle jmp jno jp lahf lar lcall lds leave les lfs lgs ljmp lodsb lodsd lodsw loop loope loopne lsl lss maskmovq maxps mov movnti movntq movsb neg not notrack out packssdw packsswb packuswb paddsw paddusb paddw pavgb pavgw pcmpgtw pinsrw pmaddwd pminsw pminub pmulhuw pmulhw popfd pshufw psrad psraw psrlw psubsb psubsw psubusb psubusw psubw punpckhbw punpckhwd punpcklwd pushal pushaw pushf pushfd rcl rcr rdmsr rdpmc ret retf rol ror rsm rsqrtps sahf sal salc sar sbb scasb scasd setnp shl shr stc sti stosb stosd subps sysexit test ud1 unpckhps vaddps vcmpps vcvtsd2si vcvtsi2ss vminps vminsd vmovhlps vmovhps vmovlhps vmptrst vmread vmulps vmwrite vpaddb vpmulhuw vpsubb wait wrmsr xabort xacquire xadd xbegin xchg xrelease xsaves
+
+Cluster_1: _corexemain addaccessallowedace adddlldirectory allocateandinitializesid apppolicygetclrcompat createconfigstream createconfigstream_retaddr eventsetinformation freesid getcurrentpackageinfo getcurrentpackagepath getsystemwindowsdirectoryw gettokeninformation initializeacl openprivatenamespacew openprocesstoken page_execute_readwrite quirkgetdata2 quirkisenabled3 roinitialize rouninitialize rtlvirtualunwind setruntimeinfo werregisterruntimeexceptionmodule
+
+Cluster_2: vmovdqa vpshufb vpshufd vpsrld vpxor
+
+Cluster_3: drawthemebackground drawthemeedge drawthemeicon drawthemetext enablethemedialogtexture getcurrentthemename getthemeappproperties getthemebackgroundcontentrect getthemebackgroundregion getthemebool getthemedocumentationproperty getthemeenumvalue getthemefilename getthemefont getthemeint getthemeintlist getthememargins getthememetric getthemepartsize getthemeposition getthemepropertyorigin getthemerect getthemestring getthemesysbool getthemesyscolor getthemesyscolorbrush getthemesysint getthemesyssize getthemesysstring getthemetextextent getthemetextmetrics getwindowtheme hittestthemebackground isappthemed isthemeactive isthemebackgroundpartiallytransparent isthemedialogtextureenabled isthemepartdefined
+
+Cluster_4: winhttpconnect winhttpopenrequest winhttpreceiveresponse winhttpsendrequest
+
+Cluster_5: beginbufferedpaint bufferedpaintinit bufferedpaintuninit dllgetversion dwmdefwindowproc dwmextendframeintoclientarea dwmiscompositionenabled endbufferedpaint
+
+Cluster_6: vaddpd vpsrad
+
+Cluster_7: aaa arpl bound dec imul inc insb insd jae jb jge jnp jns jo outsb outsd popal sub xor
+
+Cluster_8: closethreadpooltimer closethreadpoolwait flushprocesswritebuffers freelibrarywhencallbackreturns getcurrentprocessornumber setthreadpooltimer setthreadpoolwait waitforthreadpooltimercallbacks
+
+Cluster_9: gdipdisposeimage gdipgetimageencoders gdipgetimageencoderssize gdipsaveimagetofile
+
+Cluster_10: regclosekey regopenkeyexw regqueryvalueexw
+
+Cluster_11: _splitpath _vsnprintf isalpha isspace isupper memchr sscanf strspn strtol toupper wcsspn
+
+Cluster_12: flatsb_enablescrollbar flatsb_getscrollinfo flatsb_getscrollpos flatsb_getscrollprop flatsb_getscrollrange flatsb_setscrollinfo flatsb_setscrollpos flatsb_setscrollprop flatsb_setscrollrange flatsb_showscrollbar initializeflatsb uninitializeflatsb
+
+Cluster_13: clsidfromstring cogetclassobject cointernetcreatezonemanager progidfromclsid registertouchhittestingwindow revokebindstatuscallback travellogcreateinstance
+
+Cluster_14: flsalloc flsgetvalue flssetvalue initializecriticalsectionex
+
+Cluster_15: korw phaddw
+
+Cluster_16: immassociatecontext immcreatecontext immdestroycontext immgetcompositionstringa immgetcompositionstringw immgetcontext immnotifyime immreleasecontext immsetcandidatewindow immsetcompositionstringa immsetcompositionstringw
+
+Cluster_17: cointernetcreatesecuritymanager createasyncbindctxex createurlmonikerex iunknown_queryservice iunknown_setsite registerbindstatuscallback urlmkgetsessionoption
+
+Cluster_18: internetopenurla internetsetstatuscallback
+
+Cluster_19: _amsg_exit abort signal vfprintf
+
+Cluster_20: getenvironmentvariablea getlongpathnamea
+
+Cluster_21: regenumkeyexw urlisw
+
+Cluster_22: getclientrect getwindowrect
+
+Cluster_23: cmpps popf rdseed vaddss vcmppd vhaddpd vhsubpd vmovhpd vpsubd vpunpcklbw vsubps xrstor
+
+Cluster_24: wsacreateevent wsaenumnetworkevents wsaeventselect wsawaitformultipleevents
+
+Cluster_25: addpd addsd andnpd andpd movapd mulpd mulsd orpd subpd subsd unpckhpd unpcklpd xorpd
+
+Cluster_26: definedosdevicea deletevolumemountpointa enumuilanguagesw findnextvolumea getconsolewindow getlogicaldrivestringsa
+
+Cluster_27: pshuflw setb
+
+Cluster_28: closethreadpoolwork sleepconditionvariablesrw submitthreadpoolwork wakeconditionvariable
+
+Cluster_29: addsidtoboundarydescriptor createboundarydescriptorw createprivatenamespacew deleteboundarydescriptor getnumahighestnodenumber
+
+Cluster_30: ldrgetprocedureaddress ldrloaddll ldrunloaddll ntcreatesection ntfreevirtualmemory ntmapviewofsection ntopenprocess ntprotectvirtualmemory ntterminatethread ntunmapviewofsection ntwritevirtualmemory rtlcreateuserthread
+
+Cluster_31: createeventexw createsemaphoreexw createsymboliclinkw createthreadpooltimer createthreadpoolwait
+
+Cluster_32: __p__commode __p__fmode __set_app_type __setusermatherr _cexit _initterm _onexit exit
+
+Cluster_33: closeservicehandle openscmanagerw openservicew queryservicestatus
+
+Cluster_34: initializesrwlock setfileinformationbyhandle tryacquiresrwlockexclusive
+
+Cluster_35: vpalignr vpslldq vpsrldq vzeroall
+
+Cluster_36: changetimerqueuetimer createtimerqueue createtimerqueuetimer deletetimerqueuetimer disablethreadlibrarycalls findresourceexw freelibraryandexitthread generateconsolectrlevent
+
+Cluster_37: getwindowlonga setwindowlonga
+
+Cluster_38: _corexemain_retaddr onshimdllmaincalled registershimimplcallback registershimimplcleanupcallback setshellshiminstance
+
+Cluster_39: _itow _snwprintf _wcslwr _wtoi wcschr wcsncat wcsrchr wcstoul
+
+Cluster_40: interlockeddecrement interlockedincrement
+
+Cluster_41: ntquerywnfstatedata rtldisownmoduleheapallocation rtlqueryfeatureconfiguration rtlregisterfeatureconfigurationchangenotification rtlsubscribewnfstatechangenotification
+
+Cluster_42: freeenvironmentstringsw getacp getcpinfo getenvironmentstringsw
+
+Cluster_43: httpopenrequesta httpsendrequesta internetopena
+
+Cluster_44: etweventenabled etweventregister etweventunregister etweventwrite
+
+Cluster_45: lsaclose lsafreememory
+
+Cluster_46: enumsystemlocalesex getdateformatex
+
+Cluster_47: killtimer settimer
+
+Cluster_48: amsiinitialize wldpisdynamiccodepolicyenabled
+
+Cluster_49: closethemedata getthemecolor getthemesysfont
+
+Cluster_50: virtualalloc virtualfree
+
+Cluster_51: getfileinformationbyhandleexw setfileinformationbyhandlew
+
+Cluster_52: getvolumeinformationa internetgetlastresponseinfoa setrect
+
+Cluster_53: entercriticalsection leavecriticalsection
+
+Cluster_54: internetclosehandle internetreadfile
+
+Cluster_55: getjit jitstartup sxsjitstartup
+
+Cluster_56: regenumvaluew regqueryinfokeyw
+
+Cluster_57: wcscmp wcscpy
+
+Cluster_58: createwindowexa dispatchmessagea getclassnamea getmessagea gettempfilenamea getwindowsdirectorya getwindowtexta loadcursora loadicona postmessagea writeprivateprofilestringa
+
+Cluster_59: pmulhrsw vmrun
+
+Cluster_60: cvtsd2ss cvtsi2sd divss maxss movss mulss subss xorps
+
+Cluster_61: vfmsub213ss vpmaxud
+
+Cluster_62: getprocesswindowstation getuserobjectinformationw
+
+Cluster_63: paddd pmuludq psrld punpckhqdq
+
+Cluster_64: findclosechangenotification findfirstchangenotificationw findnextchangenotification
+
+Cluster_65: findfirstfilea findnextfilea
+
+Cluster_66: getshortpathnamea systemparametersinfoa
+
+Cluster_67: getpropa setpropa
+
+Cluster_68: vpaddw vpavgb vpminsw
+
+Cluster_69: process32firstw process32nextw
+
+Cluster_70: globallock globalunlock
+
+Cluster_71: createcompatibledc deletedc
+
+Cluster_72: getcurrentprocess getlasterror
+
+Cluster_73: lstrcpyna regenumkeya
+
+Cluster_74: getstringtypew lcmapstringw setstdhandle tlsalloc
+
+Cluster_75: eventunregister eventwrite
+
+Cluster_76: cmp jbe push
+
+Cluster_77: enumresourcenamesw enumresourcetypesw getprivateprofileintw getprivateprofilestringw
+
+Cluster_78: privisdllsynchronizationheld setsystemfilecachesize
+
+Cluster_79: pathcombinew setprocessdpiaware
+
+Cluster_80: getcursorpos postquitmessage setwindowpos
+
+Cluster_81: getsystemdefaultlocalename queryactctxw
+
+Cluster_82: gettimeformatex isvalidlocalename
+
+Cluster_83: setae ud2
+
+Cluster_84: loadcursorw setwindowlongw
+
+Cluster_85: createfilew getmodulefilenamew
+
+Cluster_86: setfilesecurityw wvsprintfa
+
+Cluster_87: getprocessexecutableheap getprocessexecutableheap_retaddr
+
+Cluster_88: beginpaint endpaint
+
+Cluster_89: sete setne
+
+Cluster_90: coaddrefserverprocess coreleaseserverprocess coresumeclassobjects cosuspendclassobjects
+
+Cluster_91: pfcmpeq pfrcpit1
+
+Cluster_92: sleepconditionvariablecs wakeallconditionvariable
+
+Cluster_93: page_readwrite page_writecopy
+
+Cluster_94: cocreateguid internetgetconnectedstate
+
+Cluster_95: geturlcacheentrybinaryblob getusernameexw pscreatememorypropertystore shstrdupw
+
+Cluster_96: loadresource sizeofresource
+
+Cluster_97: cmove cmovne
+
+Cluster_98: cryptcreatehash crypthashdata
+
+Cluster_99: deleteobject settextcolor
+
+Cluster_100: freeenvironmentstringsa getenvironmentstrings
+
+Cluster_101: createsemaphorew createthreadpoolwork getfileinformationbyhandleex
+
+Cluster_102: acquiresrwlockexclusive releasesrwlockexclusive
+
+Cluster_103: cvtsi2ss minsd
+
+Cluster_104: getparent mapwindowpoints
+
+Cluster_105: winhttpclosehandle winhttpopen
+
+Cluster_106: rtlunregisterfeatureconfigurationchangenotification rtlunsubscribewnfnotificationwaitforcompletion
+
+Cluster_107: aesdec aesdeclast
+
+Cluster_108: vmovdqu vpslld
+
+Cluster_109: lockfile unlockfile
+
+Cluster_110: enumresourcenamesa getprivateprofileinta
+
+Cluster_111: registerclassw registerwindowmessagew
+
+Cluster_112: je jne
+
+Cluster_113: process32first process32next
+
+Cluster_114: registerwaitforsingleobject unregisterwait
+
+Cluster_115: ntclose ntduplicateobject
+
+Cluster_116: rtldecompressbufferex rtlgetcompressionworkspacesize
+
+Cluster_117: ltr verr
+
+Cluster_118: wcscat wcslen
+
+Cluster_119: activateactctx deactivateactctx
+
+Cluster_120: cryptacquirecontexta cryptgenrandom
+
+Cluster_121: findfirstfilew findnextfilew
+
+Cluster_122: setprocessdpiawareness winhttpsettimeouts
+
+Cluster_123: lcmapstringa sethandlecount
+
+Cluster_124: strstr wcsstr
+
+Cluster_125: querydepthslist unregisterwaitex
+
+Cluster_126: filetimetolocalfiletime filetimetosystemtime
+
+Cluster_127: lineto movetoex
+

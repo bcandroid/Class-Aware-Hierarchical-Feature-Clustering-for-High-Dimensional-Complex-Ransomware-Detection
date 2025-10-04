@@ -1,0 +1,120 @@
+Cluster_0.2: commandlinetoargvw getprocesstimes rtlcapturestackbacktrace setthreaddescription add aesenclast aesimc aeskeygenassist and andn andnps andps bndldx bndstx bsf bsr bswap bt btc btr bts call cbw cldemote clflush clts clzero cmova cmovae cmovb cmovbe cmovg cmovge cmovl cmovns cmovo cmovp cmovs cmpeqsd cmpltsd cmpxchg cmpxchg8b cvtdq2ps cvtpi2ps cvtps2pd cvtss2sd cvttps2dq cvttps2pi cvttsd2si cvttss2si divsd fchs fcompp femms fldln2 fmulp fnclex frndint fxam fxch fxrstor fxsave hsubps idiv insw int3 invalid invd invlpg js kaddb kaddw kandnb kmovb kmovd ldmxcsr lgdt lidt lock maxpd maxsd minps monitor movaps movd movdqa movdqu movhlps movhps movlhps movlps movmskps movntdq movntps movq movsd movsldup movsw movsx movupd movups movzx mul mulps mwait nop or orps paddb paddq paddsb paddusw pand pandn pause pblendw pclmulqdq pcmpeqb pcmpeqd pcmpeqw pcmpgtb pcmpgtd pconfig pextrd pf2id pfmul pfrsqrt phaddd phaddsw phsubsw pi2fd pi2fw pinsrb pinsrd pmaddubsw pmaxsw pmaxub pmovmskb pmovzxdq pmullw pop popaw por prefetch prefetchnta prefetcht0 prefetcht1 prefetcht2 prefetchw prefetchwt1 psadbw pshufb pshufd psignw pslld pslldq psllq psllw psrldq psrlq psubd psubq pswapd punpckhdq punpcklbw punpckldq punpcklqdq pxor rcpps rdpkru rdrand rdtsc rep repe repne repz scasw seta setbe setge setl setle setno setns setp sfence sgdt sha1rnds4 shld shrd shufps sidt smsw sqrtpd sqrtps sqrtss std stosw syscall sysenter sysret tzcnt ucomisd ucomiss ud0 unpcklps vaddsd vaddsubpd vandnps vandpd vandps vcmpss vcomisd vcvtdq2pd vcvtdq2ps vcvtsi2sd vcvtss2sd vcvttsd2si vcvttss2si vdivps vdivsd vdivss vfmaddsub132pd vfmsub213sd vhaddps vhsubps vlddqu vmaxpd vmaxps vmaxsd vmaxss vmovapd vmovaps vmovd vmovlpd vmovlps vmovsd vmovss vmptrld vmresume vmulsd vmulss vorpd vorps vpackssdw vpacksswb vpackuswb vpaddd vpaddsb vpaddsw vpaddusb vpaddusw vpandn vpavgw vpblendd vpcmov vpcmpeqb vpcmpeqd vpcmpeqw vpcmpgtb vpcmpgtd vpcmpgtw vpmaddubsw vpmaddwd vpmaxsw vpmaxub vpmovmskb vpmullw vpor vpsadbw vpshaw vpshlq vpsllq vpsllw vpsraw vpsrlq vpsubq vpsubsb vpsubsw vpsubusb vpsubusw vpsubw vpunpckhbw vpunpckhdq vpunpckhqdq vpunpckhwd vpunpckldq vpunpcklqdq vpunpcklwd vrcpss vshufps vsqrtpd vsqrtsd vsubpd vsubsd vsubss vucomisd vunpckhpd vunpckhps vunpcklpd vunpcklps vxorpd vxorps vzeroupper wbinvd xlatb xrstors xsave xsavec xsaveopt xsetbv xsha256
+
+Cluster_1.2: animatewindow cocreateinstanceex enumdisplaymonitors
+
+Cluster_2.2: arefileapisansi coinitializeex flsfree getcurrentpackageid getfileversioninfow lcmapstringex page_execute_write raiseexception regopenkey verqueryvaluew
+
+Cluster_3.2: _memicmp _wcsicmp closehandle comparefiletime createdialogparamw createwindowexw deferwindowpos defwindowprocw deletefilew destroywindow dialogboxparamw enablemenuitem enablewindow enddialog enumchildwindows exitprocess findresourcew formatmessagew free freelibrary getclassnamew getcurrentprocessid getdateformatw getdc getdevicecaps getdlgitem getdlgitemtextw getfileattributesw getfilesize getmodulehandlea getstartupinfow getstockobject getsyscolor getsystemmetrics gettempfilenamew gettemppathw gettimeformatw getversionexw getwindow getwindowlongw getwindowsdirectoryw getwindowtextw globalalloc invalidaterect isdialogmessagew loadiconw loadimagew loadmenuw localfree lockresource lstrcpyw lstrlenw memcmp memcpy memset openprocess postmessagew qsort readfile readprocessmemory releasedc selectobject senddlgitemmessagew sendmessagew setbkcolor setbkmode setdlgitemtextw seterrormode setfocus setwindowtextw shellexecutew showwindow strlen translateacceleratorw updatewindow widechartomultibyte writeprivateprofilestringw
+
+Cluster_4.2: __getmainargs _itoa _snprintf atoi createfilea defwindowproca deletefilea findresourcea formatmessagea getdateformata getfileattributesa getmodulefilenamea getprivateprofilestringa getstartupinfoa gettemppatha gettimeformata getversionexa loadlibrarya loadlibraryexa loadstringa messageboxa sendmessagea setwindowtexta shellexecutea shgetspecialfolderpatha strcat strchr strrchr
+
+Cluster_5.2: cosetproxyblanket createwellknownsid cryptbinarytostringa cryptstringtobinarya drawthemeparentbackground drawthemetextex duplicatetoken enumsystemlocalesw findfirstfileexw findwindowexw getcapture getmenuinfo getshortpathnamew gettextcolor getthreadlocale getthreadpriority getthreadtimes getuserdefaultlcid interlockedflushslist isvalidlocale movefileexw movefilew queryperformancefrequency readconsolew registerclassexw releasesemaphore setthreadpriority setwindowtheme signalobjectandwait unregisterclassw verifyversioninfow waitforinputidle addsubpd bndmov cmpneqps cmpunordps kxnorw lddqu pfcmpge pfcmpgt phsubd phsubw pshufhw sha1nexte skinit vfmaddss vfmaddsub213pd vminpd vmmcall vmovupd vmovups vmsave vmxoff vpblendw vpmacsdql vpminsd vprotw vpsllvq vrsqrtss xstore
+
+Cluster_6.2: _time64 createmutexa deletefile findfirstvolumea findvolumeclose getfilesizeex getsystemdefaultlangid getvolumeinformationw initializesecuritydescriptor isdbcsleadbyteex isdlgbuttonchecked setsecuritydescriptorowner strtok terminatethread tolower
+
+Cluster_7.2: calloc comparestringex comparestringordinal dwritecreatefactory gdientry13 getenvironmentvariablew getsysteminfo getsystemtimepreciseasfiletime initializeslisthead initonceexecuteonce localalloc pathappendw
+
+Cluster_8.2: _gmtime64 createfilemappingw createmutexw deletecriticalsection flushfilebuffers flushviewoffile getconsolecp getconsolemode getdiskfreespacea getdiskfreespacew getfileattributesexw getoemcp getprocessheap getstringtypea getsystemtime heapalloc heapcompact heapcreate heapdestroy heapfree heaprealloc heapsize initializecriticalsection interlockedcompareexchange isdebuggerpresent isvalidcodepage outputdebugstringa outputdebugstringw queryperformancecounter rtlunwind terminateprocess tlsfree tlsgetvalue tlssetvalue unhandledexceptionfilter virtualquery waitforsingleobjectex writeconsolea writeconsolew
+
+Cluster_9.2: movefile ntcreatefile cvtpd2ps
+
+Cluster_10.2: charnexta getsystemmenu getversion lstrcata lstrcmpa
+
+Cluster_11.2: getlogicalprocessorinformation getmodulefilenameexw ntallocatevirtualmemory processidtosessionid setthemeappproperties
+
+Cluster_12.2: attachconsole comparestringw createeventw drawtextw exitthread freeconsole getcurrentthread getdiskfreespaceexa getexitcodethread getprocessaffinitymask peeknamedpipe releasemutex resetevent setevent setthreadaffinitymask versetconditionmask virtualprotect waitformultipleobjects
+
+Cluster_13.2: adjustwindowrect destroyacceleratortable msgwaitformultipleobjects setcursorpos
+
+Cluster_14.2: sldt
+
+Cluster_15.2: gdipcreatebitmapfromhbitmap gdiplusshutdown gdiplusstartup
+
+Cluster_16.2: createcompatiblebitmap getdesktopwindow getobjectw monitorfromwindow
+
+Cluster_17.2: startservicew
+
+Cluster_18.2: getfileversioninfoa getfileversioninfosizea lstrcpya lstrlena verqueryvaluea
+
+Cluster_19.2: cryptacquirecontextw deletemenu
+
+Cluster_20.2: getmodulehandlew getprocaddress loadlibraryexw loadlibraryw malloc
+
+Cluster_21.2: getdibits getthreaddesktop muldiv sleepex systemparametersinfow winsqmaddtostream
+
+Cluster_22.2: cvtdq2pd cvtsd2si movlpd shufpd sqrtsd vcvtpd2dq vmovddup
+
+Cluster_23.2: lmsw minpd
+
+Cluster_24.2: createfilemappinga mapviewoffile
+
+Cluster_25.2: createtoolhelp32snapshot
+
+Cluster_26.2: iswindow lstrcmpia movefilea setfileattributesa shgetspecialfolderlocation wsprintfa
+
+Cluster_27.2: createfontw dispatchmessagew getdynamictimezoneinformation getmessagew loadbitmapw setsearchpathmode translatemessage
+
+Cluster_28.2: getcomputernamew
+
+Cluster_29.2: movhpd vpminud vucomiss
+
+Cluster_30.2: rtldllshutdowninprogress
+
+Cluster_31.2: charuppera comparestringa lookupprivilegevaluea movefileexa oemtocharbuffa setfileattributesw
+
+Cluster_32.2: kxorw sha1msg1
+
+Cluster_33.2: mwaitx vdivpd vpmulhw vpmuludq
+
+Cluster_34.2: createactctxw getsystemdefaultuilanguage releaseactctx
+
+Cluster_35.2: pathaddbackslashw pathfileexistsw pathfindfilenamew
+
+Cluster_36.2: createpipe getexitcodeprocess iswindowenabled setenvironmentvariablea
+
+Cluster_37.2: palignr pcmpistri
+
+Cluster_38.2: cryptreleasecontext getcommandlinew
+
+Cluster_39.2: duplicatehandle setfilepointerex
+
+Cluster_40.2: getipnettable sendarp
+
+Cluster_41.2: ntopenthread timegettime vmload
+
+Cluster_42.2: setforegroundwindow shell_notifyiconw
+
+Cluster_43.2: switchtothread tryentercriticalsection
+
+Cluster_44.2: abs xend
+
+Cluster_45.2: _errno fprintf fwrite
+
+Cluster_46.2: towupper vmlaunch
+
+Cluster_47.2: vpand vpminub vshufpd
+
+Cluster_48.2: getuserdefaultlocalename getuserpreferreduilanguages
+
+Cluster_49.2: enumwindows getwindowthreadprocessid
+
+Cluster_50.2: movddup xsha1
+
+Cluster_51.2: getconsolescreenbufferinfo setconsoletextattribute
+
+Cluster_52.2: aesenc
+
+Cluster_53.2: pow regqueryinfokeya
+
+Cluster_54.2: controlservice setenvironmentvariablew
+
+Cluster_55.2: cmovle sets
+
+Cluster_56.2: createsolidbrush fillrect
+
+Cluster_57.2: comisd pavgusb
+
+Cluster_58.2: vpextrd vpinsrd
+
+Cluster_59.2: createmutex pabsw
+

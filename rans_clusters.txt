@@ -1,0 +1,148 @@
+Cluster_0.1: _atoi64 _errno _itoa _memicmp _snprintf _strcmpi _stricmp _strlwr _strnicmp _ultoa _ultow _wtoi64 abs atoi atol ntopenthread ntqueryinformationfile ntupdatewnfstatedata pow rtlcapturestackbacktrace rtlipv6addresstostringw sprintf strcat strchr strcmp strcpy strncat strrchr strtoul towupper winsqmaddtostream
+
+Cluster_1.1: checktokenmembership createcompatiblebitmap createfontw cryptbinarytostringa drawtexta drawtextw fillrect getdibits getforegroundwindow getpixel getsystemdirectoryw muldiv registerclassexw selectobject setbkcolor setpixel shgetspecialfolderpathw terminatethread vpaddd vpor vpunpckhdq vpunpckhqdq vpunpckldq vpunpcklqdq
+
+Cluster_2.1: clflush cvttps2pi invlpg paddb prefetcht0 repe vcvtdq2pd vcvtpd2dq verw vmptrld vmxoff vpaddusb vpsllq vpsrlw vpsubusw vrsqrtss vunpckhpd
+
+Cluster_3.1: getmodulefilenameexw regdeletekeyw
+
+Cluster_4.1: convertstringsecuritydescriptortosecuritydescriptorw addss cmovg cmovl cmovs cmpneqpd cvtdq2pd cvtdq2ps cvtpd2ps cvttsd2si int3 lmsw pabsw psignw punpcklbw vpshlq
+
+Cluster_5.1: enumwindows findwindowa getdesktopwindow getfileversioninfosizea getstartupinfoa getsystemdirectorya getversionexa heapdestroy httpqueryinfoa initializesecuritydescriptor internetconnecta internetcrackurla internetsetoptiona iswindow iswindowvisible movefileexa outputdebugstringa peekmessagea regcreatekeyexa regdeletekeya regdeletevaluea regenumkeyexa regenumvaluea regopenkeyexa regqueryinfokeya regsetvalueexa removedirectorya searchpatha setenvironmentvariablea setfileattributesa setforegroundwindow verqueryvaluea waitforinputidle
+
+Cluster_6.1: attachconsole comparefiletime comparestringordinal copyfilew createactctxw createdirectoryw createmutexexw deviceiocontrol dosdatetimetofiletime duplicatehandle enumresourcetypesa filetimetodosdatetime findactctxsectionstringw findnlsstringex findresourcea findresourcew flushviewoffile formatmessagew freeconsole getconsolescreenbufferinfo getcurrentdirectoryw getdateformata getdrivetypea getdynamictimezoneinformation getexitcodethread getfiletime getfullpathnamea getfullpathnamew getmodulehandleexa getnumberformata getnumberformatw
+
+Cluster_7.1: andn cmpxchg cvtpi2ps idiv invd prefetcht1 psubb setp sets std sysret ud0 vaddsd vcvttsd2si vmaxsd vmaxss vminss vpinsrw vpmacsdql vpmaddubsw vpsllw xlatb
+
+Cluster_8.1: copyrect cotaskmemalloc iunknown_set setcoalescabletimer shgetvaluew varianttostringwithdefault wldpgetlockdownpolicy
+
+Cluster_9.1: processidtosessionid cmova movntdq movntps pblendw pshufb sfence vmovntdq vzeroupper
+
+Cluster_10.1: bndmov cmpunordps lddqu pconfig pmaddubsw pswapd rdpkru vaddsubps vandnpd vcmpsd vcvtsi2sd vcvtss2sd vcvttss2si vdivps vhsubps vmaxpd vmaxps vminpd vmload vmovlps vmulpd vmulsd vpackuswb vpaddusw vpavgw vpcmpgtw vsubsd vucomiss xsave
+
+Cluster_11.1: copyfilea createdirectorya createfilemappinga createprocessa deletefilea expandenvironmentstringsa formatmessagea getcurrentthread getdiskfreespacea getexitcodeprocess getfileattributesa getprivateprofilestringa
+
+Cluster_12.1: dialogboxparamw findwindowexw getwindow loadbitmapw oleinitialize senddlgitemmessagew setdlldirectoryw setwindowtextw shautocomplete
+
+Cluster_13.1: cmpeqsd cmpltpd cmpnlepd cvtsd2si fcompp fld1 fldz ldmxcsr movlhps movlpd movsw movzx pcmpistri pextrw setg seto shufpd sqrtsd stmxcsr
+
+Cluster_14.1: kmovb vpextrd
+
+Cluster_15.1: gdientry13 pathappendw outsw popaw
+
+Cluster_16.1: getfileversioninfosizew getfileversioninfow rogetparameterizedtypeinstanceiid
+
+Cluster_17.1: __getmainargs fprintf fwrite
+
+Cluster_18.1: getmenuinfo heapcompact sendmessagea
+
+Cluster_19.1: createwellknownsid deletemenu enablemenuitem getadaptersinfo getsystemmenu pathremovefilespecw setconsoletextattribute shellexecuteexa
+
+Cluster_20.1: createmutexw createtoolhelp32snapshot expandenvironmentstringsw getcomputernamew getfileattributesw getmodulehandlew
+
+Cluster_21.1: vpand vpmuludq vpsrlq
+
+Cluster_22.1: getprocessheap getvolumeinformationw lstrlenw movefilew openprocess regsetvalueexw setfileattributesw setfilepointerex shellexecuteexw systemparametersinfow waitformultipleobjects
+
+Cluster_23.1: _gmtime64 _time64 realloc mwaitx vmovapd vmovddup
+
+Cluster_24.1: kandnb kmovw vfmsub213sd vpminsd vucomisd xend
+
+Cluster_25.1: isdlgbuttonchecked loadimagew
+
+Cluster_26.1: setthemeappproperties
+
+Cluster_27.1: createeventw enumsystemlocalesw getconsoleoutputcp getdateformatw getlocaleinfow
+
+Cluster_28.1: createpen invalidaterect screentoclient winexec
+
+Cluster_29.1: taskdialogindirect kxnorw prefetch prefetchwt1
+
+Cluster_30.1: cmpneqps tzcnt
+
+Cluster_31.1: memcmp strtok
+
+Cluster_32.1: cocreateinstanceex monitorfromwindow
+
+Cluster_33.1: kxorw pfpnacc xsetbv
+
+Cluster_34.1: pextrd pinsrd sha1msg1 sha1nexte sha1rnds4 sha256msg2
+
+Cluster_35.1: gdipcreatebitmapfromhbitmap pathfindfilenamew
+
+Cluster_36.1: vandps vdivsd vmovlpd vpackssdw vpminud vpsadbw vpsubq vpunpckhbw
+
+Cluster_37.1: destroywindow globalfree lstrcata lstrcpya mapviewoffile messageboxa translatemessage unmapviewoffile
+
+Cluster_38.1: setthreaddescription bsf pmovmskb ucomisd vmovaps vmovups vpblendd
+
+Cluster_39.1: getcapture getclipboardowner getcursor getkeystate getthreaddesktop getwindowtextlengtha
+
+Cluster_40.1: destroyacceleratortable iswindowenabled peeknamedpipe timebeginperiod translateacceleratorw unregisterclassw
+
+Cluster_41.1: gettimeformatw interlockedpushentryslist tryentercriticalsection waitforsingleobjectex
+
+Cluster_42.1: createpipe createprocessw deletefilew getcomputernamea getfilesizeex getlogicaldrives
+
+Cluster_43.1: maxpd minpd
+
+Cluster_44.1: timegettime hsubps rdtsc
+
+Cluster_45.1: movhpd pshufhw sqrtpd sqrtss ucomiss
+
+Cluster_46.1: getipaddrtable
+
+Cluster_47.1: findfirstfileexw findvolumeclose getmodulehandleexw
+
+Cluster_48.1: controlservice releasemutex systemtimetofiletime wnetcloseenum
+
+Cluster_49.1: smsw vsqrtss
+
+Cluster_50.1: adjustwindowrect deferwindowpos enumchildwindows
+
+Cluster_51.1: getsystemtime getversion setendoffile widechartomultibyte
+
+Cluster_52.1: dispatchmessagew getobjectw
+
+Cluster_53.1: _wcsnicmp wcsncpy
+
+Cluster_54.1: createthread findclose
+
+Cluster_55.1: sendarp startservicew
+
+Cluster_56.1: drawthemetextex
+
+Cluster_57.1: globalsize sleepex systemtimetotzspecificlocaltime writeprivateprofilestringw
+
+Cluster_58.1: findfirstvolumea getcurrentdirectorya
+
+Cluster_59.1: lldt
+
+Cluster_60.1: getstdhandle tlsgetvalue
+
+Cluster_61.1: lidt paddusw
+
+Cluster_62.1: gettimeformata movsldup
+
+Cluster_63.1: memmove tolower
+
+Cluster_64.1: duplicatetoken setsecuritydescriptorowner
+
+Cluster_65.1: call pcmpeqw
+
+Cluster_66.1: loadlibrarya verqueryvaluew
+
+Cluster_67.1: phsubsw phsubw
+
+Cluster_68.1: deletecriticalsection waitforsingleobject
+
+Cluster_69.1: gettempfilenamew pathaddbackslashw
+
+Cluster_70.1: vpcmpeqb vpmovmskb
+
+Cluster_71.1: comparestringa comparestringw
+
+Cluster_72.1: gdiplusshutdown setsearchpathmode
+
+Cluster_73.1: addsubpd vpmuldq
+
