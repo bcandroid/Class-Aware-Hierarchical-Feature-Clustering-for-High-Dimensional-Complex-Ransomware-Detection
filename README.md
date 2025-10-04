@@ -24,7 +24,9 @@ The `clustered_dataset.csv` file is the reduced version of the original dataset 
 * **column_names.txt**: Column names corresponding to the reduced `clustered_dataset.csv` dataset.  
 * **test_rf.py**: Script for validating the performance of the reduced dataset using a Random Forest model.
 
+**Framework Citation (BibTeX):**
 If you use this dataset or framework in your research, please cite this work as follow:
+
 @misc{caliskan2025framework,
   title={Class-Aware Hierarchical Feature Clustering for High-Dimensional Complex Ransomware Detection},
   author={B. Caliskan},
